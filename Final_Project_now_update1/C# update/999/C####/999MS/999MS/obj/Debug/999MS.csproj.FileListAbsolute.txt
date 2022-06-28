@@ -1,0 +1,396 @@
+C:\Users\ASUS\source\repos\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\ASUS\source\repos\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\ASUS\source\repos\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\ASUS\source\repos\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+E:\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+E:\999MS\999MS\obj\Debug\_999MS.Form3.resources
+E:\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+E:\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+E:\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+E:\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+E:\999MS\999MS\obj\Debug\_999MS.Call.resources
+E:\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+E:\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+E:\999MS\999MS\obj\Debug\_999MS.FA.resources
+E:\999MS\999MS\obj\Debug\_999MS.FC.resources
+E:\999MS\999MS\obj\Debug\_999MS.FD.resources
+E:\999MS\999MS\obj\Debug\_999MS.FG.resources
+E:\999MS\999MS\obj\Debug\_999MS.Fire.resources
+E:\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+E:\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+E:\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+E:\999MS\999MS\obj\Debug\_999MS.Form1.resources
+E:\999MS\999MS\obj\Debug\_999MS.Form2.resources
+E:\999MS\999MS\obj\Debug\_999MS.FW.resources
+E:\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+E:\999MS\999MS\obj\Debug\_999MS.More.resources
+E:\999MS\999MS\obj\Debug\_999MS.Police.resources
+E:\999MS\999MS\obj\Debug\_999MS.Service.resources
+E:\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+E:\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+E:\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+E:\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+E:\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+E:\999MS\999MS\obj\Debug\999MS.exe
+E:\999MS\999MS\obj\Debug\999MS.pdb
+E:\999MS\999MS\bin\Debug\999MS.exe.config
+E:\999MS\999MS\bin\Debug\999MS.exe
+E:\999MS\999MS\bin\Debug\999MS.pdb
+E:\999MS\999MS\obj\Debug\_999MS.CovidSpecial.resources
+E:\999MS\999MS\obj\Debug\_999MS.CSpecial.resources
+E:\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Cspecial.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Desktop\New folder (9)\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Cspecial.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (10)\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\hp i5\Desktop\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\hp i5\Desktop\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\hp i5\Desktop\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Cspecial.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\hp i5\Desktop\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Cspecial.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Downloads\New folder (13)\999\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Form3.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cspecial.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Call.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Form1.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Form2.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.LoginAndRegister.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\hp i5\Desktop\C# update\999\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.choose.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.login.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Registration.resources
+C:\Users\Admin\Desktop\80%project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Admin_Covid.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Admin_Covid.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.choose.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.login.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Registration.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\hp i5\Desktop\80% Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Admin_Covid.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.choose.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.login.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Registration.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Desktop\New folder (13)\80_ Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.pdb
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe.config
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.exe
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\bin\Debug\999MS.pdb
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Admin_Covid.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminFire.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminPolice.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.allusers.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Ambulance.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Cdoctor.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.ChildHelpline.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Doctor.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Corruption.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FA.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FC.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FD.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FG.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Fire.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminLogin.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminService.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.AdminAmbulance.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.choose.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.login.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Registration.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.FW.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.GovtService.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.More.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Police.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Service.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.Properties.Resources.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\_999MS.WomenChild.resources
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.exe
+C:\Users\Admin\Desktop\Final_C#_Project\Final_Project\C# update\999\C####\999MS\999MS\obj\Debug\999MS.pdb
