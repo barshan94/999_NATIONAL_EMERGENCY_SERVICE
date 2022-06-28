@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC03B5F0-1A8E-425D-8419-CB7A7F3AAA34}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_999MS</RootNamespace>
+    <AssemblyName>999MS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ambulance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ambulance.Designer.cs">
+      <DependentUpon>Ambulance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doctor.Designer.cs">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Corruption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Corruption.Designer.cs">
+      <DependentUpon>Corruption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChildHelpline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildHelpline.Designer.cs">
+      <DependentUpon>ChildHelpline.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FA.Designer.cs">
+      <DependentUpon>FA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FC.Designer.cs">
+      <DependentUpon>FC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FD.Designer.cs">
+      <DependentUpon>FD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FG.Designer.cs">
+      <DependentUpon>FG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fire.Designer.cs">
+      <DependentUpon>Fire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminService.Designer.cs">
+      <DependentUpon>AdminService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPolice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPolice.Designer.cs">
+      <DependentUpon>AdminPolice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminFire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminFire.Designer.cs">
+      <DependentUpon>AdminFire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminAmbulance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAmbulance.Designer.cs">
+      <DependentUpon>AdminAmbulance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ACAmbulance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACAmbulance.Designer.cs">
+      <DependentUpon>ACAmbulance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cdoctor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cdoctor.Designer.cs">
+      <DependentUpon>Cdoctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="allusers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="allusers.Designer.cs">
+      <DependentUpon>allusers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="choose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose.Designer.cs">
+      <DependentUpon>choose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update.Designer.cs">
+      <DependentUpon>Update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Userlogindetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Userlogindetails.Designer.cs">
+      <DependentUpon>Userlogindetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FW.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FW.Designer.cs">
+      <DependentUpon>FW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Police.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Police.Designer.cs">
+      <DependentUpon>Police.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GovtService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GovtService.Designer.cs">
+      <DependentUpon>GovtService.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WomenChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WomenChild.Designer.cs">
+      <DependentUpon>WomenChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="More.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="More.Designer.cs">
+      <DependentUpon>More.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service.Designer.cs">
+      <DependentUpon>Service.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ACAmbulance.resx">
+      <DependentUpon>ACAmbulance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminFire.resx">
+      <DependentUpon>AdminFire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPolice.resx">
+      <DependentUpon>AdminPolice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="allusers.resx">
+      <DependentUpon>allusers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ambulance.resx">
+      <DependentUpon>Ambulance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cdoctor.resx">
+      <DependentUpon>Cdoctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildHelpline.resx">
+      <DependentUpon>ChildHelpline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doctor.resx">
+      <DependentUpon>Doctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Corruption.resx">
+      <DependentUpon>Corruption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FA.resx">
+      <DependentUpon>FA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FC.resx">
+      <DependentUpon>FC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FD.resx">
+      <DependentUpon>FD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FG.resx">
+      <DependentUpon>FG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fire.resx">
+      <DependentUpon>Fire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminService.resx">
+      <DependentUpon>AdminService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminAmbulance.resx">
+      <DependentUpon>AdminAmbulance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="choose.resx">
+      <DependentUpon>choose.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update.resx">
+      <DependentUpon>Update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Userlogindetails.resx">
+      <DependentUpon>Userlogindetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FW.resx">
+      <DependentUpon>FW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GovtService.resx">
+      <DependentUpon>GovtService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="More.resx">
+      <DependentUpon>More.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Police.resx">
+      <DependentUpon>Police.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Service.resx">
+      <DependentUpon>Service.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WomenChild.resx">
+      <DependentUpon>WomenChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\97-971116_police-logo-bangladesh-police-logo-bd-police-logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\97-971116_police-logo-bangladesh-police-logo-bd-police-logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ambulance.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Covid.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BDpolice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhd_logo25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Doctor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dudok.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Child.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prevention_Cell.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Govt.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\police1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fire_service.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ambulance1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
