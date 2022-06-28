@@ -1,0 +1,8 @@
+What's new?
+
+1. Added new button logout
+2. Added new table to track current user
+3. Added time and date for every user table
+4. Removed location textbox from every form
+5. Added update option for users
+6. Added location dropdown
